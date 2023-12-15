@@ -1,0 +1,218 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 720px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 1);
+}
+.desktop1-bg {
+  top: 0px;
+  left: 0px;
+  width: 1360px;
+  height: 720px;
+  position: absolute;
+}
+.desktop1-shadow {
+  right: 12px;
+  width: 493px;
+  bottom: 77px;
+  height: 53px;
+  position: absolute;
+}
+.desktop1-batman-shoe1 {
+  top: 147px;
+  right: 67px;
+  width: 569px;
+  height: 516px;
+  position: absolute;
+}
+.desktop1-text {
+  top: 144.94479370117188px;
+  left: 66.92725372314453px;
+  width: 566.8090209960938px;
+  height: 503.51190185546875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-text01 {
+  top: 5.684341886080802e-14px;
+  left: 2.809028387069702px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 47.8623161315918px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text03 {
+  top: 69.52255249023438px;
+  left: 5.618002414703369px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.280933380126953px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text05 {
+  top: 148.87660217285156px;
+  left: 6.320259094238281px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 42.51793670654297px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text07 {
+  top: 240.16883850097656px;
+  left: 2.809028387069702px;
+  color: rgba(255, 255, 255, 1);
+  width: 413px;
+  height: auto;
+  position: absolute;
+  font-size: 16.85395622253418px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-addtocart {
+  top: 452.9500427246094px;
+  left: 0px;
+  width: 199px;
+  height: 51px;
+  position: absolute;
+  border-radius: 49.859619140625px;
+}
+.desktop1-text18 {
+  top: 465.59051513671875px;
+  left: 32.303443908691406px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20.020837783813477px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-menu {
+  top: 24.770729064941406px;
+  left: 278.9991455078125px;
+  width: 536.634521484375px;
+  height: 56.55250930786133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1-home {
+  top: 0px;
+  left: 0px;
+  width: 102px;
+  height: 57px;
+  position: absolute;
+  border-radius: 55.767051696777344px;
+}
+.desktop1-text20 {
+  top: 14.923583984375px;
+  left: 19.63627052307129px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22.392932891845703px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text22 {
+  top: 14.923583984375px;
+  left: 147.6648406982422px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22.392932891845703px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text24 {
+  top: 14.923583984375px;
+  left: 322.0350646972656px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22.392932891845703px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text26 {
+  top: 14.923583984375px;
+  left: 451.634521484375px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22.392932891845703px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-mdibat {
+  top: -20px;
+  left: 63px;
+  width: 174px;
+  height: 174px;
+  position: absolute;
+}
